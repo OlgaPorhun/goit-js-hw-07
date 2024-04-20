@@ -13,3 +13,4 @@ changeColorButton.addEventListener('click', function() {
   body.style.backgroundColor = randomColor;
   colorSpan.textContent = randomColor;
 });
+
